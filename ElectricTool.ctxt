@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ getRechargable()
+comment0.text=\r\n\ Accessor\ method\ for\ Electric\ Tool\r\n\ \r\n\ @return\ The\ Electric\ fields\ values.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPower()
+comment2.params=recharge
+comment2.target=void\ setRechargable(boolean)
+comment2.text=\r\n\ Mutator\ methods\ for\ ElectricTool\ \r\n\ \r\n
+comment3.params=volts
+comment3.target=void\ setPower(java.lang.String)
+comment4.params=
+comment4.target=void\ printDetails()
+comment4.text=\r\n\ Print\ details\ of\ Electric\ tool\ fields\ to\ the\ terminal\r\n\ \r\n\ @param\ super\ calls\ the\ printDetails\ in\ the\ superClass\ Tools\r\n\ \ \ \ \ \ \ \ and\ print\ those\ values\ out\ before\ it\ prints\ out\ fields\ in\ this\ field\ \r\n\ \ \ \ \ \ \ \ The\ positioning\ of\ super\ does\ not\ matter\ \r\n
+comment5.params=s
+comment5.target=void\ extractData(java.util.Scanner)
+comment5.text=\r\n\ This\ is\ intended\ to\ help\ ElectricTool\ extract\ its\ own\ data\ \r\n\ to\ store\ in\ its\ class\ fields\r\n
+comment6.params=pWriter
+comment6.target=void\ writeData(java.io.PrintWriter)
+numComments=7

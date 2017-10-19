@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.params=reservationNo\ itemID\ customerID\ startDate\ noOFDays
+comment0.target=ShopItemReservation(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShopItemReservation\r\n
+comment1.params=
+comment1.target=ShopItemReservation()
+comment1.text=\r\n\ Constructor\ for\ the\ class\ ShopItemReservation\ \r\n\ \r\n\ This\ constructor\ has\ been\ implicity\ initialised\ to\ aid\ fast\ testing\ \r\n
+comment10.params=pWriter
+comment10.target=void\ writeData(java.io.PrintWriter)
+comment10.text=\r\n\ This\ method\ enables\ the\ Shop\ class\ to\ write\ data\ to\ a\ data\ file\ \r\n\ from\ the\ way\ the\ data\ is\ being\ stored\ in\ the\ ShopItemReservation\ Class\ \r\n\ \r\n\ @param\ pWriter\ \ \ \ \ \ \ is\ a\ PrintWriter\ object\ used\ to\ write\ data\ to\ a\ data\ file\r\n
+comment11.params=scan
+comment11.target=void\ readData(java.util.Scanner)
+comment11.text=\r\n\ This\ method\ enables\ ShopItemReservation\ class\ to\ read\ datafile\ according\ to\ the\ way\ the\ \r\n\ Data\ is\ being\ stored\ in\ the\ datafile\ \r\n\ \r\n\ @param\ scan\ \ \ \ \ \ is\ a\ Scanner\ object,\ aids\ read\ of\ data\ from\ a\ data\ file\r\n
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment12.text=\r\n\ Returns\ a\ string\ representing\ the\ <code>ShopItemReservation</code>\ object.\ \ For\ a\ \r\n\ reserved\ object\ with\ reservationNo\ 000001,\ customerID\ AB-467289,\ itemID\ AB-829182\ will\ return\ the\ <code>String</code>\ \r\n\ \r\n\ "ReservationNo\:\ 0000001,\ for\ Customer\ \=\ AB-467289,\ and\ Item\ \=\ AB-829182\ "\r\n\ \r\n\ @return\ \ \ a\ <code>String</code>\ representation\ of\ the\ shopItemReservation\r\n
+comment2.params=
+comment2.target=java.lang.String\ getReservationNo()
+comment2.text=\r\n\ Class\ accessor\ methods\ \r\n\ \r\n\ \ \ \ \ \ getReservationNo()\ \ returns\ unique\ reservation\ number\r\n\ \ \ \ \ \ getItemID()\ \ \ \ \ \ \ \ \ returns\ unique\ itemID\r\n\ \ \ \ \ \ getCustomerID()\ \ \ \ \ returns\ unique\ customerID\r\n\ \ \ \ \ \ getStartDate()\ \ \ \ \ \ returns\ first\ day\ of\ reservation\r\n\ \ \ \ \ \ getNoOfDays()\ \ \ \ \ \ \ returns\ the\ duration\ of\ the\ reservation\r\n\ \ \ \ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getitemID()
+comment4.params=
+comment4.target=java.lang.String\ getCustomerID()
+comment5.params=
+comment5.target=java.util.Date\ getStartDate()
+comment6.params=
+comment6.target=int\ getNoOfDays()
+comment7.params=num
+comment7.target=void\ setReservationNo(java.lang.String)
+comment7.text=\r\n\ Class\ modifying\ methods\ \r\n\ \r\n\ \ \ \ \ \ @param\ num\ \ takes\ a\ String\ parameter\ to\ set\ reservationNo\ setReservationNo(num)\ \r\n\ \ \ \ \ \ @param\ date\ is\ a\ Date\ object\ sets\ the\ startdate\ for\ when\ item\ was\ reserved\ setStartDate(date)\r\n
+comment8.params=date
+comment8.target=void\ setStartDate(java.util.Date)
+comment9.params=
+comment9.target=void\ printDetails()
+comment9.text=\r\n\ Print\ all\ items\ in\ the\ shopItemReservation\ class\ \r\n
+numComments=13

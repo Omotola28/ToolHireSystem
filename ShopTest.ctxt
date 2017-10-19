@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment0.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n\ \r\n\ Parameter\ pass\ to\ the\ Shop\ Object\ is\ the\ name\ of\ the\ Shop\ to\ be\ created\ \r\n\ \r\n\ @param\ "Havens"\ is\ a\ String\ object\r\n
+comment1.params=
+comment1.target=void\ getNumberOfCustomers()
+comment1.text=\r\n\ Test\ method\ for\ getNumberOfCustomers()\ \r\n\ reads\ customerData\ from\ file\ "customer_data.txt"\ and\ counts\ the\ number\ of\ customers\ stored\r\n\ If\ it\ returns\ 4\ test\ is\ succesful.\r\n\ \r\n\ The\ number\ returned\ depends\ on\ the\ number\ of\ items\ in\ test\ class.\r\n
+comment2.params=
+comment2.target=void\ readCustomerData()
+comment2.text=\r\n\ Reads\ customer\ data\ and\ prints\ out\ to\ the\ terminal\r\n
+comment3.params=
+comment3.target=void\ readCustomerDataFail()
+comment3.text=\r\n\ If\ no\ file\ was\ picked\ to\ be\ read,\ what\ happens?\ \r\n\ This\ test\ class\ shows\ appropraite\ result.\r\n
+comment4.params=
+comment4.target=void\ writeCustomerFail()
+comment4.text=\r\n\ This\ method\ is\ testing\ to\ see\ what\ happens\ when\ the\ name\ of\ the\ file\ is\ not\ inputted\ \r\n
+comment5.params=
+comment5.target=void\ writeCustomerData()
+comment5.text=\r\n\ Reads\ customer\ data\ from\ a\ file\ and\ then\ writes\ the\ same\ data\ to\ an\ external\ file\r\n\ files\ are\ in\ txt\ format\r\n
+comment6.params=
+comment6.target=void\ storeCustomer()
+comment6.text=\r\n\ Stores\ customer\ in\ the\ customer\ map\ and\ to\ check\ that\ new\ customer\ is\ stored\ \r\n\ Old\ customers\ are\ read\ in,\ if\ new\ customer\ is\ saved\ properly\ number\ of\ customers\ \r\n\ will\ be\ five\r\n
+comment7.params=
+comment7.target=void\ getCustomer()
+comment7.text=\r\n\ Retrieves\ customer\ from\ uniqueIDput\ in\ the\ method\ \r\n
+numComments=8

@@ -1,0 +1,6 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignore
+
+// New ReservedItems data
+// data is reservationNo, itemID, customerID,startDate,noOfDays
+000000, AB-311926, AB-132014, 26-05-2017, 4

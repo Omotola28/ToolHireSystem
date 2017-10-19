@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getItemCode()
+comment0.text=\r\n\ Accessor\ method\ for\ superClass\ ShopItem\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment2.params=
+comment2.target=int\ getCost()
+comment3.params=itemCode
+comment3.target=void\ setItemCode(java.lang.String)
+comment3.text=\r\n\ Mutator\ methods\ for\ the\ superClass\ ShopItem\r\n
+comment4.params=itemName
+comment4.target=void\ setItemName(java.lang.String)
+comment5.params=cost
+comment5.target=void\ setCost(int)
+comment6.params=
+comment6.target=void\ printDetails()
+comment7.params=s
+comment7.target=void\ extractData(java.util.Scanner)
+comment8.params=pWriter
+comment8.target=void\ writeData(java.io.PrintWriter)
+numComments=9

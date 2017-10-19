@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ getIsSharpenable()
+comment0.text=\r\n\ Accessor\ method\ for\ HandTools\r\n\ \r\n\ @return\ The\ HandTool\ fields\ values.\r\n
+comment1.params=sharpen
+comment1.target=void\ setSharpenable(boolean)
+comment1.text=\r\n\ Mutator\ methods\ for\ HandTools\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=s
+comment3.target=void\ extractData(java.util.Scanner)
+comment3.text=\r\n\ This\ is\ intended\ to\ help\ HandTool\ extract\ its\ own\ data\ \r\n\ to\ store\ in\ its\ class\ fields\ and\ pass\ the\ remaining\ data\ to\ be\ stored\ in\ the\ \r\n\ superClass\ tool\ \r\n
+comment4.params=pWriter
+comment4.target=void\ writeData(java.io.PrintWriter)
+numComments=5

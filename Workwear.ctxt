@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getManStandard()
+comment0.text=\r\n\ Accessor\ methods\ for\ the\ class\ WorkWear\r\n
+comment1.params=
+comment1.target=java.lang.String\ getColour()
+comment2.params=
+comment2.target=java.lang.String\ getSize()
+comment3.params=manStandard
+comment3.target=void\ setManStandard(java.lang.String)
+comment3.text=\r\n\ Mutator\ methods\ for\ the\ class\ Perishable\r\n
+comment4.params=colour
+comment4.target=void\ setUseByDate(java.lang.String)
+comment4.text=\r\n\ Mutator\ methods\ for\ the\ class\ Perishable\r\n
+comment5.params=size
+comment5.target=void\ setVolume(java.lang.String)
+comment6.params=
+comment6.target=void\ printDetails()
+comment7.params=s
+comment7.target=void\ extractData(java.util.Scanner)
+comment8.params=pWriter
+comment8.target=void\ writeData(java.io.PrintWriter)
+numComments=9

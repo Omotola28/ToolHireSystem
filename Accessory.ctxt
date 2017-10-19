@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getPosition()
+comment0.text=\r\n\ Accessor\ methods\ for\ the\ Accessory\ Class\r\n
+comment1.params=position
+comment1.target=void\ setPosition(java.lang.String)
+comment1.text=\r\n\ Mutator\ methods\ for\ the\ Accessory\ Class\r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=s
+comment3.target=void\ extractData(java.util.Scanner)
+comment4.params=pWriter
+comment4.target=void\ writeData(java.io.PrintWriter)
+numComments=5

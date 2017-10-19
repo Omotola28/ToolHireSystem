@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Diary()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Diary\r\n
+comment1.params=shopItemReservation
+comment1.target=void\ addItemReservation(ShopItemReservation)
+comment1.text=\r\n\ Method\ for\ adding\ a\ reservation\ to\ the\ diary.\ \r\n\r\n\ @parameter\ \ \ \ \ shopItemReservation,\ of\ type\ ShopItemReservation\ \r\n
+comment2.params=startDate\ endDate
+comment2.target=void\ printEntries(java.util.Date,\ java.util.Date)
+comment2.text=\r\n\ Method\ for\ displaying\ the\ reservations\ between\ specified\ dates.\ \r\n\r\n\ @parameter\ \ \ \ \ startDate,\ of\ type\ Date\r\n\ @parameter\ \ \ \ \ endDate,\ of\ type\ Date\r\n
+comment3.params=shopItemReservation
+comment3.target=void\ deleteItemReservation(ShopItemReservation)
+comment3.text=\r\n\ Method\ for\ deleting\ a\ reservation\ from\ the\ diary.\ \r\n\r\n\ @parameter\ \ \ \ \ shopItemReservation,\ of\ type\ ShopItemReservation\ \r\n
+comment4.params=date
+comment4.target=ShopItemReservation[]\ getItemReservations(java.util.Date)
+comment4.text=\r\n\ Accessor\ method\ for\ returning\ all\ reservations\ that\ have\ entries\ \r\n\ in\ the\ diary\ for\ a\ particular\ date.\ \r\n\r\n\ @parameter\ \ \ \ \ date,\ of\ type\ Date\ \r\n\ @return\ \ \ \ \ \ \ \ an\ array\ of\ reservations,\ or\ null\ if\ no\ entry\ for\ that\ date\r\n
+numComments=5

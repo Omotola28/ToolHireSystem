@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getTimesBorrowed()
+comment0.text=\r\n\ Accessor\ methods\ for\ the\ SuperClass\ Tool\r\n\ \r\n\ Returns\ values\ of\ what\ is\ stored\ in\ the\ SuperClass\ fields\r\n
+comment1.params=
+comment1.target=boolean\ getOnLoan()
+comment2.params=
+comment2.target=int\ getWeight()
+comment3.params=onLoan
+comment3.target=void\ setOnLoan(boolean)
+comment3.text=\r\n\ Mutator\ methods\ for\ the\ SuperClass\ Tool\ \r\n\ \r\n\ \ are\ called\ in\ the\ Shop\ class\ to\ assign\ values\ from\ the\ text\ file\ to\ the\ fields\r\n
+comment4.params=weight
+comment4.target=void\ setWeight(int)
+comment5.params=timesBorrowed
+comment5.target=void\ setTimesBorrowed(int)
+comment6.params=
+comment6.target=void\ printDetails()
+comment7.params=s
+comment7.target=void\ extractData(java.util.Scanner)
+comment8.params=pWriter
+comment8.target=void\ writeData(java.io.PrintWriter)
+numComments=9

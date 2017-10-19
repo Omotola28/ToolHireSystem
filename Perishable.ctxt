@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ getIsIrritant()
+comment0.text=\r\n\ Accessor\ methods\ for\ the\ class\ Perishable\r\n
+comment1.params=
+comment1.target=java.lang.String\ getUseByDate()
+comment2.params=
+comment2.target=int\ getVolume()
+comment3.params=useByDate
+comment3.target=void\ setUseByDate(java.lang.String)
+comment3.text=\r\n\ Mutator\ methods\ for\ the\ class\ Perishable\r\n
+comment4.params=volume
+comment4.target=void\ setVolume(int)
+comment5.params=isIrritant
+comment5.target=void\ setIsIrritant(boolean)
+comment6.params=
+comment6.target=void\ printDetails()
+comment7.params=s
+comment7.target=void\ extractData(java.util.Scanner)
+comment8.params=pWriter
+comment8.target=void\ writeData(java.io.PrintWriter)
+numComments=9

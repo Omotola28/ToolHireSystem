@@ -1,0 +1,34 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignore
+
+[ElectricTool Data]
+// data is rechargeable, power, timesBorrowed, onLoan, itemName, itemCode, cost, weight
+false,900W,85,false,Bosch GSB19-2REA Percussion Drill,AB-311926,19999,3400
+true,10.8V,14,true,Flex Impact Screwdriver FIS439,AB-267950,13499,1200
+false,2100W,15,false,Sparky FK652 Wall Chaser,AB-163159,29994,8400
+true,18V,18,false,DeWalt DW936 Circular Saw,AB-861631,19999,3300
+false,1500W,65,true,Milwaukee DD2-160XE Diamond Core Drill,AB-747250,38894,9000
+true,18V,12,false,Makita BHP452RFWX,AB-779943,14995,1800
+false,1500W,50,false,Milwaukee DD2-160XE Diamond Core Drill,AB-024772,38894,9000
+true,10.8V,25,true,Bosch GSR10.8-Li Drill Driver,AB-505312,9995,820
+false,1350W,54,true,DeWalt D23650-GB Circular Saw,AB-981783,14997,5400
+true,10.8V,18,true,Bosch GSR10.8-Li Drill Driver,AB-671469,9995,820
+true,10.8V,14,false,Flex Impact Screwdriver FIS439,AB-007309,13499,1200
+
+[HandTool Data]
+// data is sharpenable, timesBorrowed, onLoan, itemName, itemCode, cost, weight
+true,18,true,0.5cm chisel,AB-476478,1000,200
+false,27,true,Bolster,AB-443038,600,400
+true,12,true,1cm carving chisel,AB-002887,1200,200
+false,15,false,2cm flat screwdriver,AB-289736,500,200
+false,20,false,Sledge hammer,AB-115936,2000,10000
+
+[Perishable Data]
+// data is isIrritant, useByDate, volume, position, itemName, itemCode, cost
+true,17-02-2011,250,Section R shelf 62a,super toxic weed killer,AB-994073,9000
+false,09-11-10,300,Section T shelf 9,stainless steel cleaner,AB-191639,1099
+
+[WorkWear Data]
+// data is manufacturing standard, colour, size, position, itemName, itemCode, cost
+EN 135,green,S,Section b shelf 7,gardening gloves,AB-172791,5500
+EN 812,red,M,Section A shelf 5,oil-proof jacket,AB-817980,3000
